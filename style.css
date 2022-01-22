@@ -519,7 +519,7 @@ a.services__card:nth-child(9) {
   position: relative;
 }
 .footer__phone::before {
-  content: url(/img/phone.svg);
+  content: url(img/phone.svg);
   display: inline-block;
   position: absolute;
   left: -20px;
@@ -529,7 +529,7 @@ a.services__card:nth-child(9) {
   position: relative;
 }
 .footer__email::before {
-  content: url(/img/mail.svg);
+  content: url(img/mail.svg);
   display: inline-block;
   position: absolute;
   top: 1px;
