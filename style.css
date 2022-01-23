@@ -245,7 +245,7 @@ a.header__email {
 
 .header__wrapper ul {
   width: 100%;
-
+  display:flex;
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
