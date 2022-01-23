@@ -1,3 +1,4 @@
+
 /*variables */
 :root {
   --color-main: #7d4670;
@@ -317,7 +318,7 @@ span.nav__search {
   position: relative;
 }
 span.nav__search::after {
-  content: url(/img/search.svg);
+  content: url(img/search.svg);
   display: inline-block;
 }
 /*media */
@@ -484,7 +485,7 @@ a.footer__phone {
   position: relative;
 }
 a.footer__phone::before {
-  content: url(/img/phone.svg);
+  content: url(img/phone.svg);
   display: inline-block;
   position: absolute;
   left: -20px;
@@ -494,7 +495,7 @@ a.footer__email {
   position: relative;
 }
 a.footer__email::before {
-  content: url(/img/mail.svg);
+  content: url(img/mail.svg);
   display: inline-block;
   position: absolute;
   top: 1px;
@@ -648,14 +649,14 @@ span.footer__line {
 }
 
 .swiper-button-prev {
-  background-image: url(/img/arr-left.svg);
+  background-image: url(img/arr-left.svg);
   background-repeat: no-repeat;
   left: 20px;
   pointer-events: all;
 }
 
 .swiper-button-next {
-  background-image: url(/img/arr-right.svg);
+  background-image: url(img/arr-right.svg);
   background-repeat: no-repeat;
   left: 72px;
   pointer-events: all;
@@ -666,7 +667,7 @@ span.footer__line {
 }
 
 .swiper-btn:hover::before {
-  content: url(/img/ellipse.svg);
+  content: url(img/ellipse.svg);
   display: block;
   margin-right: 19px;
   margin-bottom: 25px;
